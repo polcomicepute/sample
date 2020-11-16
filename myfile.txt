@@ -1,3 +1,9 @@
 branch one -1 
 branch two 
+<<<<<<< HEAD
 salkjdfklsf
+=======
+salkjdfklsfasdfasdf asdfasdf 
+safasf
+
+>>>>>>> one
