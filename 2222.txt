@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 master
 mama
+=======
+안뇽-two
+>>>>>>> two
