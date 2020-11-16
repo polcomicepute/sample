@@ -6,6 +6,10 @@ salkjdfklsf
 salkjdfklsfasdfasdf asdfasdf 
 safasf
 
+<<<<<<< HEAD
 >>>>>>> one
 
 ㅁ나ㅣ얾니ㅏㅇㄹ
+=======
+개빡쳐
+>>>>>>> one
